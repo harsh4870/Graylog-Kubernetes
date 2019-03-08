@@ -1,0 +1,12 @@
+apiVersion: v1
+appVersion: "1.0"
+description: A Graylog2 Helm chart for Kubernetes
+name: graylog
+version: 0.1.0
+appVersion: 2.4.4
+home: https://github.com/imubit/graylog-helm-chart
+sources:
+  - https://github.com/imubit/graylog-helm-chart
+maintainers:
+  - name: Harsh Manvar
+    email: harsh.manvar111@gmail.com
