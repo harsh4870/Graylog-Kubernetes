@@ -23,7 +23,8 @@ $ helm install --name logs .  --set graylog.passwordSecret=<16+ CHARS PASSWORD> 
 
 All service will running with peristense volume claim so PV support on the underlying infrastructure must.
 
+```
 Mongo DB : statefulset
 Elastic Search : statefulset
 Gryalog : statefulset
-   
+```  
